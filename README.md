@@ -1,4 +1,4 @@
-# acc_skin_charwxxxmy
+# acc_skin_296gt3_cinnamoroll
 
 《神力科莎：竞速》（Assetto Corsa Competizione，ACC）Ferrari 296 GT3 (2023) 玉桂狗涂装。
 
@@ -10,7 +10,7 @@
 
 - [ACC安装包](packages/v1.12/Ferrari_296_GT3_Cinnamoroll_CloudParade36_v1_12.zip)
 - [编辑源文件包](packages/v1.12/Ferrari_296_GT3_CloudParade36_v1_12_编辑源文件.zip)：4096×4096、10层PSD、PNG、SVG及素材。
-- [GitHub发行与版本下载](https://github.com/charwxxxmy/acc_skin_charwxxxmy/releases)
+- [GitHub发行与版本下载](https://github.com/charwxxxmy/acc_skin_296gt3_cinnamoroll/releases)
 - [安装方法](docs/安装说明.md) · [更新记录](CHANGELOG.md) · [本版说明](docs/本版更新.md) · [文件校验值](SHA256SUMS.txt)
 
 ## 本版变化
