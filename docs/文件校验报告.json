@@ -1,0 +1,79 @@
+{
+  "status": "PASS_FILE_AND_TEMPLATE_CHECKS",
+  "carModelType": 32,
+  "skinTemplateKey": 103,
+  "customSkinName": "ferrari296_cinnamoroll_cloudparade36_v111",
+  "texture_size": [
+    4096,
+    4096
+  ],
+  "PSD": {
+    "size": [
+      4096,
+      4096
+    ],
+    "layers": 9,
+    "hidden_uv_reference": true,
+    "merged_preview_pixel_difference": 0,
+    "visible_layer_pixel_difference": 0
+  },
+  "protected_files_verified": 375,
+  "protected_files_changed": [],
+  "install_zip_sha256": "96e328a8a2be81b03d2df57b91b9ce91fa46e877c0ed5b615298d680716e706d",
+  "install_zip_crc": "PASS",
+  "game_files": {
+    "安装说明.txt": "8e867a62b5c2ee0debd8f637e6d9abad82518bc8345b38047e7ea616d487cdf9",
+    "Customs/Cars/ferrari296_cinnamoroll_cloudparade36_v111.json": "0902d4ca89af41ab6a0e8cda51a067ccecd833da52886494744e7c935a56e2d5",
+    "Customs/Liveries/ferrari296_cinnamoroll_cloudparade36_v111/decals.json": "ea01fe666a03bf550a7058c5668f51c4311a2e30b674b63a530929718d39cfe3",
+    "Customs/Liveries/ferrari296_cinnamoroll_cloudparade36_v111/decals.png": "f821e5bd77b67d1053563a59f236623dbf610abb5deaf70e00f0c50fb8653beb",
+    "Customs/Liveries/ferrari296_cinnamoroll_cloudparade36_v111/sponsors.json": "ea01fe666a03bf550a7058c5668f51c4311a2e30b674b63a530929718d39cfe3",
+    "Customs/Liveries/ferrari296_cinnamoroll_cloudparade36_v111/sponsors.png": "9511a22f75360eab0bda10888422b7ff8c6ac825fa270c63f885e8f56afea0b5"
+  },
+  "preview_type": "3D paint-template rendering; simplified auxiliary tires and glass; not in-game screenshots",
+  "asymmetric_cloud_color_pixels": {
+    "pink": 402400,
+    "mint": 413830
+  },
+  "Pirelli_exact_official_pixels": true,
+  "wordmark_exact_R8_asset_pixels": true,
+  "unchanged_layers_match_v1_10": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "07.png",
+    "UV_reference.png"
+  ],
+  "side_layout": {
+    "36_and_Pirelli_grouped_under_IXO": true,
+    "separate_rear_wheel_Pirelli": false,
+    "below_window_Pirelli": false,
+    "old_front_number_removed": true
+  },
+  "banner_safe_area": {
+    "text": "CINNAMOROLL",
+    "image_size": [
+      1400,
+      160
+    ],
+    "ink_box": [
+      400,
+      15,
+      1000,
+      75
+    ],
+    "toward_roof": "top of this flat graphic",
+    "reason": "set back from the front edge overlapped by the in-game Ferrari glass banner",
+    "in_game_retest": false
+  },
+  "previous_versions_and_originals_unchanged": 375,
+  "source_zip": {
+    "sha256": "ab176c2ef4f4c2b0218ac734568fdb3245d049bba8fbe3cb890f05114c76f747",
+    "files": 52,
+    "crc": "PASS",
+    "selected_source_files_match_disk": true
+  },
+  "delivery_links": "PASS",
+  "banner_is_real_painted_body_lip": true,
+  "custom_glass_banner": false
+}
