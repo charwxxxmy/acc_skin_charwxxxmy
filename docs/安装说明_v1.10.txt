@@ -1,0 +1,34 @@
+﻿Ferrari 296 GT3 (2023) — 玉桂狗 Cloud Parade 36 v1.10
+
+这是以项目中 R8 玉桂狗涂装为灵感、重新适配 Ferrari 296 GT3 UV 的创作版。
+车队：UNO Racing - Cloud Parade | 车号：36
+车辆：Ferrari 296 GT3，carModelType=32。需要能在 ACC 中选择该车。
+
+安装
+1. 完全退出 ACC，解压本压缩包。
+2. 将 Customs 文件夹合并到系统实际“文档”目录的 Assetto Corsa Competizione 文件夹。
+   可在资源管理器地址栏输入 shell:Personal，然后进入 Assetto Corsa Competizione。
+   正确结构：
+   Assetto Corsa Competizione/Customs/Cars/ferrari296_cinnamoroll_cloudparade36_v110.json
+   Assetto Corsa Competizione/Customs/Liveries/ferrari296_cinnamoroll_cloudparade36_v110/decals.png
+   及同目录下 decals.json、sponsors.png、sponsors.json。
+   不要产生 Customs/Customs；不要将文件放进 Steam 游戏程序安装目录。
+   本包使用独立标识；若安装时提示覆盖同名文件，请先另存旧版。
+3. 启动 ACC，选择 Ferrari 296 GT3 → 自定义车队 UNO Racing - Cloud Parade → 36号。
+   不同界面的翻译和分组可能不同；可按车队名和号码定位。
+
+首次核对
+本包已检查文件格式、路径、4K贴图、分层PSD一致性及模板曲面布局；尚未做 ACC 游戏内加载与材质验证。
+首次载入时等待游戏处理贴图，查看左右侧、车顶、车头及车尾；再进赛道检查实际光照。
+重点观察自动号码板/赞助层是否遮挡36号牌，以及侧进气口、附件和接缝的表现。
+若列表中没有车辆：检查是否解锁该车，以及 Cars JSON 路径、编码和车型。
+若图案没有载入：确认 customSkinName 与 Liveries 子目录完全一致，且 PNG 已解压到本地。
+本包不附带其他涂装的DDS缓存；由ACC自行生成所需缓存。
+普通自定义车漆不会把图案印到车窗或玻璃上，预览中的轮胎/玻璃为简化辅助几何，不是游戏截图。
+本版紫底黄字横幅位于挡风玻璃上沿的可涂车身窄边，不是对玻璃本身的修改。
+玻璃上的预设横幅仍由ACC内置选项控制；本包没有伪造自定义玻璃贴图。
+本版涂装标识以v110结尾，可与旧v100并存；请按显示名v1.10选择新版。
+
+移除
+退出游戏，仅移除本包对应的 Cars/ferrari296_cinnamoroll_cloudparade36_v110.json 和 Liveries/ferrari296_cinnamoroll_cloudparade36_v110 文件夹。
+不要删除整个 Customs、Cars 或 Liveries。

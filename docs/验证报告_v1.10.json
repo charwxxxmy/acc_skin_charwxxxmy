@@ -1,0 +1,50 @@
+{
+  "status": "PASS_FILE_AND_TEMPLATE_CHECKS",
+  "in_game_verified": false,
+  "carModelType": 32,
+  "skinTemplateKey": 103,
+  "customSkinName": "ferrari296_cinnamoroll_cloudparade36_v110",
+  "texture_size": [
+    4096,
+    4096
+  ],
+  "PSD": {
+    "size": [
+      4096,
+      4096
+    ],
+    "layers": 9,
+    "hidden_uv_reference": true,
+    "merged_preview_pixel_difference": 0,
+    "visible_layer_pixel_difference": 0
+  },
+  "protected_files_verified": 121,
+  "protected_files_changed": [],
+  "install_zip_sha256": "a7d58eca96c9c8ac956bd314553ec6d910bb2b7a2fbdf1ec614174f32689f675",
+  "install_zip_crc": "PASS",
+  "game_files": {
+    "安装说明.txt": "0460812a0563f63622055467f160dce0439955ba0f340596b0213864533590d0",
+    "Customs/Cars/ferrari296_cinnamoroll_cloudparade36_v110.json": "f6bc997d72ce0b8efb5ef47b0e037a6c3593731f10c30617d6b437d428d0711e",
+    "Customs/Liveries/ferrari296_cinnamoroll_cloudparade36_v110/decals.json": "ea01fe666a03bf550a7058c5668f51c4311a2e30b674b63a530929718d39cfe3",
+    "Customs/Liveries/ferrari296_cinnamoroll_cloudparade36_v110/decals.png": "119dbe16b802467ccff3fd6170c1aa56005ef6ac4399ad4c3374e3af951ab474",
+    "Customs/Liveries/ferrari296_cinnamoroll_cloudparade36_v110/sponsors.json": "ea01fe666a03bf550a7058c5668f51c4311a2e30b674b63a530929718d39cfe3",
+    "Customs/Liveries/ferrari296_cinnamoroll_cloudparade36_v110/sponsors.png": "9511a22f75360eab0bda10888422b7ff8c6ac825fa270c63f885e8f56afea0b5"
+  },
+  "preview_type": "3D paint-template rendering; simplified auxiliary tires and glass; not in-game screenshots",
+  "asymmetric_cloud_color_pixels": {
+    "pink": 403566,
+    "mint": 415006
+  },
+  "Pirelli_exact_official_pixels": true,
+  "wordmark_exact_R8_asset_pixels": true,
+  "previous_versions_and_originals_unchanged": 121,
+  "source_zip": {
+    "sha256": "d0fafc490a87d20aec616f29d189c022e468de83e3813eaa19ae577d567d406e",
+    "files": 51,
+    "crc": "PASS",
+    "selected_source_files_match_disk": true
+  },
+  "delivery_links": "PASS",
+  "banner_is_real_painted_body_lip": true,
+  "custom_glass_banner": false
+}
